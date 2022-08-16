@@ -1,0 +1,14 @@
+{
+  "name": "auth_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matheus Cardoso",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
